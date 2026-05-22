@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color:white ;
+    
+}
+img{
+    display: Grid;
+    grid-template-columns: 1fr 1fr;
+    flex-wrap: wrap;
+}

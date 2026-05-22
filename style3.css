@@ -1,0 +1,9 @@
+body{
+background: #544cba;
+background: linear-gradient(90deg,rgba(84, 76, 186, 1) 0%, rgba(227, 11, 11, 1) 100%);
+   color: white; 
+}
+.gladiolus{
+    background-color: black;
+    color: pink;
+}
